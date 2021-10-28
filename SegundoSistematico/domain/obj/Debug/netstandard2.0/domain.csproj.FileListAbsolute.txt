@@ -1,0 +1,9 @@
+C:\Users\JADPA_16\source\repos\SegundoSistematico\domain\bin\Debug\netstandard2.0\domain.deps.json
+C:\Users\JADPA_16\source\repos\SegundoSistematico\domain\bin\Debug\netstandard2.0\domain.dll
+C:\Users\JADPA_16\source\repos\SegundoSistematico\domain\bin\Debug\netstandard2.0\domain.pdb
+C:\Users\JADPA_16\source\repos\SegundoSistematico\domain\obj\Debug\netstandard2.0\domain.csprojAssemblyReference.cache
+C:\Users\JADPA_16\source\repos\SegundoSistematico\domain\obj\Debug\netstandard2.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_16\source\repos\SegundoSistematico\domain\obj\Debug\netstandard2.0\domain.AssemblyInfoInputs.cache
+C:\Users\JADPA_16\source\repos\SegundoSistematico\domain\obj\Debug\netstandard2.0\domain.AssemblyInfo.cs
+C:\Users\JADPA_16\source\repos\SegundoSistematico\domain\obj\Debug\netstandard2.0\domain.dll
+C:\Users\JADPA_16\source\repos\SegundoSistematico\domain\obj\Debug\netstandard2.0\domain.pdb
